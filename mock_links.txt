@@ -1,9 +1,8 @@
 // Full Body mock images
-https://github.com/Tonyshen1997/RemoteMockData/raw/main/mock_full_body.webp
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_full_body.webp
 
 // Background mock images
-https://github.com/Tonyshen1997/RemoteMockData/raw/main/mock_background.png
-
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background.png
 
 // Script line mock mp3 audios
-https://github.com/Tonyshen1997/RemoteMockData/raw/main/mock_audio.mp3
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_audio.mp3
