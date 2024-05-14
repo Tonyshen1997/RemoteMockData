@@ -1,5 +1,6 @@
 // Full Body mock images
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_full_body.webp
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_full_body_wizard.webp
 
 // Background mock images
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background.png
