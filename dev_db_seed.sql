@@ -1,0 +1,4 @@
+INSERT INTO story (id, title, logline, creator_id, genre_tags, cover_photo_uri, is_public) VALUES
+('test_story_id_1', 'A mock story', 'This is a mock story', 'TestCreator', 'CreatorOriginal,Fantasy,Sci-Fi', 'https://fe1b76b8c2085cc4b81100fb9688f1de.r2.cloudflarestorage.com/story/test_story_id_1/cover_photo/image.webp', TRUE),
+('test_story_id_2', 'A test''s journey', 'This is a story about a tester''s life. this life is not easy. There are some many bugs that he didn''t caught', 'test_creator_1', 'CreatorOriginal,Sci-Fi', 'https://fe1b76b8c2085cc4b81100fb9688f1de.r2.cloudflarestorage.com/story/test_story_id_2/cover_photo/image.webp', TRUE),
+('test_story_id_3', 'A developer''s journey', 'This is a story about a developer''s life. this life is not easy. He produced some many bugs that the tester hated his guts', 'test_creator_1', 'Sci-Fi', 'https://fe1b76b8c2085cc4b81100fb9688f1de.r2.cloudflarestorage.com/story/test_story_id_3/cover_photo/image.webp', TRUE);
