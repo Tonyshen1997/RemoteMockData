@@ -7,7 +7,9 @@ https://github.com/Tonyshen1997/RemoteMockData/main/Mocks/mock_full_body_female_
 // Background mock images
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background.png
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background_magic_hall.webp
-
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background_lightning_house.webp
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background_neon.webp
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background_mountain.webp
 
 // Script line mock mp3 audios
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_audio_music.mp3
