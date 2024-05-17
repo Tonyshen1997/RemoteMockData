@@ -5,7 +5,6 @@ https://github.com/Tonyshen1997/RemoteMockData/main/Mocks/mock_full_body_female_
 https://github.com/Tonyshen1997/RemoteMockData/main/Mocks/mock_full_body_female_waitress.webp
 
 Background mock images:
-https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background.png
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background_magic_hall.webp
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background_lightning_house.webp
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background_neon.webp
