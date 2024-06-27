@@ -10,6 +10,12 @@ https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background_li
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background_neon.webp
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background_mountain.webp
 
+Horizontal mock images:
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background_neon_horizontal.webp
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background_magic_hall_horizontal.webp
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background_lightning_house_horizontal.webp
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background_mountain_horizontal.webp
+
 Script line mock mp3 audios:
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_audio_music.mp3
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_audio_talking_1.mp3
