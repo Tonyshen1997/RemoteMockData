@@ -4,6 +4,12 @@ https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_full_body_wiz
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_full_body_female_student.webp
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_full_body_female_waitress.webp
 
+Full Body with background mock images:
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_full_body_student_with_background.webp
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_full_body_wizard_with_background.webp
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_full_body_female_student_with_background.webp
+
+
 Background mock images:
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background_magic_hall.webp
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_background_lightning_house.webp
