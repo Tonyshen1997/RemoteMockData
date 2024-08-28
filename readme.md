@@ -1,3 +1,9 @@
+Four Panel mock images:
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_four_panel_1.webp
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_four_panel_2.webp
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_four_panel_3.webp
+https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_four_panel_4.webp
+
 Full Body mock images:
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_full_body.webp
 https://github.com/Tonyshen1997/RemoteMockData/raw/main/Mocks/mock_full_body_wizard.webp
